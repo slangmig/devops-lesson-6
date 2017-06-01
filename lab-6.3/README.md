@@ -1,7 +1,6 @@
 # Exercise 6.3 Using Git
 
-In this exercise we will install a Git server in a Docker container
-and use Git commands.
+In this exercise we will install a Git server in a Docker container and use Git commands
 
 ### Step 1
 
