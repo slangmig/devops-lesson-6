@@ -13,4 +13,3 @@ RUN cd /opt/jtrac && mv start.bat start.sh && chmod +x start.sh
 RUN rm /tmp/jdk*linux-x64.rpm /tmp/jtrac*.zip
 WORKDIR /opt/jtrac
 CMD ./start.sh
-
