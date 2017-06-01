@@ -2,7 +2,7 @@
 
 We are going to install the open source ticketing system JTrac into a docker container and use it.
 
-### Step 1
+### Step 1 
 
 Connect to the Google Compute engine virtual machine.
 
