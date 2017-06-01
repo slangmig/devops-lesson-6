@@ -1,2 +1,2 @@
 # devops-lesson-6
-DevOps Lesson 6 exercises.
+DevOps Lesson 6 exercises
